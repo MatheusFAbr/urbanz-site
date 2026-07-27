@@ -1,16 +1,62 @@
-# React + Vite
+# 🛍️ Catálogo Digital Streetwear
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um catálogo digital moderno e responsivo desenvolvido para uma loja de roupas streetwear, com foco em uma experiência de navegação fluida, design contemporâneo e apresentação elegante dos produtos.
 
-Currently, two official plugins are available:
+O projeto foi desenvolvido com **React** e **Tailwind CSS**, priorizando uma interface intuitiva, componentes reutilizáveis e um layout totalmente adaptável para desktops, tablets e dispositivos móveis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## React Compiler
+* 📱 Interface totalmente responsiva
+* 🎨 Design moderno e minimalista
+* 🛍️ Exibição organizada dos produtos
+* ⚡ Navegação rápida e intuitiva
+* 🧩 Componentização com React
+* 💨 Estilização utilizando Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* HTML5
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone <URL_DO_REPOSITORIO>
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd nome-do-projeto
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie o ambiente de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+Para gerar a versão de produção:
+
+```bash
+npm run build
+```
+
+## 📄 Objetivo
+
+Este projeto foi desenvolvido como parte do meu portfólio, demonstrando a criação de uma landing page para um catálogo digital no segmento de moda streetwear, aplicando boas práticas de desenvolvimento Front-end, responsividade e organização de componentes.
+
+## 📄 Licença
+
+Projeto desenvolvido para fins de estudo e demonstração em portfólio.
